@@ -6,7 +6,7 @@ export default function Saibamais() {
             <>
              <div className={styles.imagem}>
                 <div className={styles.cont}>
-                    <h1 className={styles.texto}> Uma plataforma de eventos oferece benefícios significativos para organizadores e participantes. Ela simplifica o processo de organização e promoção de eventos, além de melhorar a experiência do público.</h1>
+                    <h1 className={styles.texto}> A Plataforma CINEBLAGG busca facilitar o acesso às sinopses de filmes, séries e desenhos. </h1>
                 </div>
              </div>     
             </>           

@@ -4,9 +4,17 @@
     background-position: center;
     min-height: 100vh;
 }
+
+.cont {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
 .texto {
     border: 1px solid white;
-    height: 40vh;
+    background-color: rgba(0, 0, 0, 0.474);
     width: 70vh;
     display: flex;
     padding: 20px;
