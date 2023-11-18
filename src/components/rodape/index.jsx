@@ -16,7 +16,7 @@ export default function Rodape() {
                 <div className={styles.footerContent}>
                     <div className={styles.contatos}>
                         <h1>Blog de Filme, Animes e Séries</h1>
-                        <p>Plataforma Blagg - Aulas/Front-Marco-Andrade</p>
+                        <p>Plataforma CineBlagg - Aulas/Front-Marco-Andrade</p>
 
                         <div className={styles.footerSocialMedia} id='footer_social_media'>
 

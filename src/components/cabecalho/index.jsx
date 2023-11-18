@@ -8,7 +8,7 @@ export default function Cabecalho() {
 
         <div className={styles.tela}>
             <header className={styles.cabecalho}>
-                <h1 className={styles.titulo}>BLAGG</h1>
+                <h1 className={styles.titulo}>CINEBLAGG</h1>
                 <div>
 
                     <Link href="/">

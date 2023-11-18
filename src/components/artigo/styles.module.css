@@ -1,0 +1,17 @@
+.imagem {
+    background-image: url('/929202.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+.texto {
+    border: 1px solid white;
+    height: 40vh;
+    width: 70vh;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+    line-height: 4.5vh;
+    font-size: 30px;
+}

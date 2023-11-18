@@ -1,28 +1,35 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Poppins:wght@100;200&display=swap');
+
+
+
 .tela{
     position: sticky;
     top: 0%;
+
 }
 
 .cabecalho {
-    display: flex;
-    background-color: rgb(0, 0, 0);
-    
+    display: flex;    
+    background: rgba(0, 0, 0, 0.896);
     justify-content:space-between;
     align-items: center;
     padding: 10px;
     border: 1px solid rgb(114, 114, 114);
-    box-shadow: 0 4px 8px 0 rgba(69, 69, 69, 0.567);
     min-width: 35rem;
 
 }
 .titulo{
+    font-family: 'Kdam', sans-serif;
+
     display: flex;
     font-size: 4vh;
     color: rgb(255, 255, 255);
 
 }
 .git{
+    font-family: 'Kdam', sans-serif;
+
     display: inline-flex;
     font-size: 15px;
     color: rgb(248, 245, 245);
